@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "ursula")(type "Legacy")(uri "${KIPRJMOD}/../libraries/ursula.lib")(options "")(descr ""))
+)

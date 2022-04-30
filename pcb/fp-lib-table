@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "ursula")(type "KiCad")(uri "${KIPRJMOD}/../libraries/ursula.pretty")(options "")(descr ""))
+  (lib (name "ursula-images")(type "KiCad")(uri "/home/jmnw/documents/areas/computing/mechanical-keyboards/ursula/libraries/ursula-images.pretty")(options "")(descr ""))
+)
